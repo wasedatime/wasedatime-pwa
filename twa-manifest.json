@@ -1,0 +1,35 @@
+{
+  "packageId": "com.wasedatime.web",
+  "host": "wasedatime.com",
+  "name": "WasedaTime",
+  "launcherName": "WasedaTime",
+  "display": "standalone",
+  "themeColor": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#FFFFFF",
+  "enableNotifications": false,
+  "startUrl": "/index.html",
+  "iconUrl": "https://wasedatime.com/static/media/logo.d2b728b9.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "C:\\Users\\austi\\Documents\\Keys\\android-keystore.jks",
+    "alias": "upload"
+  },
+  "appVersionName": "2",
+  "appVersionCode": 2,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://wasedatime.com/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "orientation": "default",
+  "appVersion": "2"
+}
